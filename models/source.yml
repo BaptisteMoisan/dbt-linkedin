@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: linkedin_ads
+    tables:
+      - name: linkedin_ads__account_report_custom
