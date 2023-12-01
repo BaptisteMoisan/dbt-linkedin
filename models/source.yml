@@ -3,4 +3,6 @@ version: 2
 sources:
   - name: linkedin_ads
     tables:
-      - name: linkedin_ads__account_report_custom
+      - name: account_history
+      - name: ad_analytics_by_campaign
+      - name: campaign_history
